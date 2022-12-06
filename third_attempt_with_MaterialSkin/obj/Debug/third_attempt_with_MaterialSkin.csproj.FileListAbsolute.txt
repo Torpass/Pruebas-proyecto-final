@@ -1,0 +1,13 @@
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\bin\Debug\third_attempt_with_MaterialSkin.exe.config
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\bin\Debug\third_attempt_with_MaterialSkin.exe
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\bin\Debug\third_attempt_with_MaterialSkin.pdb
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.csproj.AssemblyReference.cache
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.Properties.Resources.resources
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.csproj.GenerateResource.cache
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.csproj.CopyComplete
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.exe
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.pdb
+C:\Users\Pastor Jose\OneDrive\Documentos\GitHub\FinalProject\third_attempt_with_MaterialSkin\obj\Debug\third_attempt_with_MaterialSkin.Form1.resources
